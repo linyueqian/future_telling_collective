@@ -2,6 +2,7 @@
 ### Group Member: [Chester Zhixian Zhang](mailto:zhixian.zhang688@dukekunshan.edu.cn), [Jessie Jiaxun Cao](mailto:jessie.cao@dukekunshan.edu.cn), [Yueqian Lin](mailto:yueqian.lin@dukekunshan.edu.cn), [Merrill O'Shaughnessy](mailto:merrill.oshaughnessy@duke.edu)
 ### Link: https://linyueqian.github.io/future_telling_collective/
 
+This is a repo for VMS288's group project.
 
 ### References:
 [1]“Twine Texting Project by shindigs,” itch.io. https://shindigs.itch.io/twine-texting-project (accessed Oct. 02, 2022).
